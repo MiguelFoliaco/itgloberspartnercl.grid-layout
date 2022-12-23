@@ -1,0 +1,7 @@
+{
+  "grid-layout":{
+    "component": "index",
+    "render": "client",
+    "composition": "children"
+  }
+}
